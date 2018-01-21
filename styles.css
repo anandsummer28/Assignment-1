@@ -1,0 +1,19 @@
+body{
+	background-color: lightgrey;
+}
+
+.partition {
+	padding-left: 25%;
+	margin-top: -1%;
+	font-family: sans-serif;
+}
+
+
+blockquote {
+	width: 500px; 
+	height:45px; 
+	text-align: center; 
+	vertical-align: middle; 
+	border: 1px solid white;
+	margin-left: 0px
+}
